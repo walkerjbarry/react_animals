@@ -1,3 +1,6 @@
+Simple React App with state updates, and event handlers. Users add a random animal, and a heart next to the animal changes in size onClick.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
