@@ -1,4 +1,5 @@
-Simple React App with state updates, and event handlers. Users add a random animal, and a heart next to the animal changes in size onClick.
+This is a simple React App with state updates, and event handlers. 
+In this app, users click a button to add a random animal, and a heart next to the animal changes in size onClick as well.
 
 
 # Getting Started with Create React App
